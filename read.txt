@@ -1,3 +1,4 @@
 read
 login
 logout
+master 1
