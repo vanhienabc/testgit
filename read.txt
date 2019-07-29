@@ -2,3 +2,4 @@ read
 login
 logout
 master 1
+realease 1.2
