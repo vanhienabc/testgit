@@ -1,3 +1,4 @@
 read
 login
 logout
+realease 1.2
